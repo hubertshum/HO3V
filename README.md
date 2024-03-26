@@ -9,6 +9,7 @@ The AVI video files can be viewed by a video player. The BVH motion data can be 
 <h2>Reference</h2>
 <p>By using this dataset, you agree to cite the following research publication in all related project documents/publications:</p>
 <p ">Jingtian Zhang, Lining Zhang, Hubert P. H. Shum and Ling Shao, "<a href="http://hubertshum.com/pbl_icra2016action.htm">Arbitrary View Action Recognition via Transfer Dictionary Learning on Synthetic Training Data</a>," in Proceedings of the 2016 IEEE International Conference on Robotics and Automation (ICRA), 2016.</p>
+
 ```
 @inproceedings{zhang16arbitrary,
  author={Zhang, Jingtian and Zhang, Lining and Shum, Hubert P. H. and Shao, Ling},
