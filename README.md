@@ -1,6 +1,6 @@
 # HO3V: The Dataset for Arbitrary View Action Recognition via Transfer Dictionary Learning on Synthetic Training Data
 
-![teaser](https://user-images.githubusercontent.com/77708790/146571925-dc3b1e8c-d7dd-42e9-9103-1aa4e0bd5c5d.png)
+![teaser](https://github.com/hubertshum/HO3V/blob/e2d7b608af45505f70d4256eb8fa88f7dcdb2fc0/teaser.png)
 
 <p>We present the HO3V datasets for arbitrary view action recognition, as described in the paper <a href="http://hubertshum.com/pbl_icra2016action.htm">Arbitrary View Action Recognition via Transfer Dictionary Learning on Synthetic Training Data</a>. HO3V includes 2 sub-datasets tailored for N-UCLA and IXMAS, each consisting of a set of AVI videos and BVH motion files.
 
